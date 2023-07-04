@@ -1,2 +1,2 @@
 # sd07.github
-Socket Programming for client-server model
+Socket Programming for the client-server model
